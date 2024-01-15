@@ -1,0 +1,1 @@
+Inverse variance weighted (IVW) meta-analysis
